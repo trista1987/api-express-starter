@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "album_name": "Love Yourself: Answer",
+      "release_date": "2018-08-24",
+      "genre": ["K-pop", "hip hop"],
+      "sales": "3.4 million",
+      "album_image": "https://example.com/love_yourself_answer.jpg",
+      "instock": true
+    },
+    {
+      "id": 2,
+      "album_name": "Map of the Soul: 7",
+      "release_date": "2020-02-21",
+      "genre": ["K-pop", "EDM", "hip hop"],
+      "sales": "4.1 million",
+      "album_image": "https://example.com/map_of_the_soul_7.jpg",
+      "instock": false
+    },
+    {
+      "id": 3,
+      "album_name": "BE",
+      "release_date": "2020-11-20",
+      "genre": ["K-pop", "pop"],
+      "sales": "2.7 million",
+      "album_image": "https://example.com/be_album.jpg",
+      "instock": true
+    },
+    {
+      "id": 4,
+      "album_name": "Wings",
+      "release_date": "2016-10-10",
+      "genre": ["K-pop", "R&B", "hip hop"],
+      "sales": "2.3 million",
+      "album_image": "https://example.com/wings_album.jpg",
+      "instock": true
+    },
+    {
+      "id": 5,
+      "album_name": "Dark & Wild",
+      "release_date": "2014-08-20",
+      "genre": ["K-pop", "hip hop"],
+      "sales": "150,000",
+      "album_image": "https://example.com/dark_and_wild_album.jpg",
+      "instock": false
+    },
+    {
+      "id": 6,
+      "album_name": "You Never Walk Alone",
+      "release_date": "2017-02-13",
+      "genre": ["K-pop", "pop"],
+      "sales": "1.2 million",
+      "album_image": "https://example.com/you_never_walk_alone_album.jpg",
+      "instock": true
+    }
+  ]
+  
